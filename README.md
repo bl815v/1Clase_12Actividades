@@ -1,5 +1,4 @@
 # 1Clase_12Actividades
-# Ejercicios Propuestos
 
 1. Dado el radio de la base y la altura del Cilindro, calcular el volumen del cilindro.
 
